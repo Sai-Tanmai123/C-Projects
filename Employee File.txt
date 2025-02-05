@@ -1,0 +1,10 @@
+Sai Tanmai	121	47000
+Sai Tanmai	101	47000
+Appana	102	55000
+Sai Tanmai	100	47000
+Tanmai Appana	101	55000
+Tanmai Appana	102	95000
+Sai Tanmai	100	45000
+Tannu	101	55000
+SAI	95000	123
+S	1	12000
